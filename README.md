@@ -23,6 +23,7 @@
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=fff)
 
 ![linux](https://img.shields.io/badge/-linux-fcc624?style=for-the-badge&logo=linux&logoColor=333)
+![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![vscode](https://img.shields.io/badge/-vscode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![vim](https://img.shields.io/badge/-vim-019733?style=for-the-badge&logo=vim&logoColor=fff)
 
